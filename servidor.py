@@ -2,6 +2,7 @@
 
 
 
+stop
 
 # Custom version
 # mohist / catserver   Install forge   first
